@@ -153,7 +153,8 @@ public class Victor extends SoftwareEngineer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.oliveira1717@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pixel-morcego.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-pixel--morcego-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pixel-morcego.vercel.app)
+[![Railway](https://img.shields.io/badge/Railway-book--api-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://book-api-production-bbb5.up.railway.app)
 
 </div>
 
