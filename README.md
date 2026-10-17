@@ -1,38 +1,38 @@
-# Victor Oliveira
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-banner.png" width="100%" alt="Dark gothic castle banner" />
+</p>
 
-<img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-castle-banner.png" width="100%" alt="Dark gothic banner with a castle and crimson moon" />
+<h1 align="center">Victor Oliveira</h1>
 
 <p align="center">
-  <strong>Software Engineering Student · Backend Development · Data</strong>
-  <br />
-  Building practical projects, exploring systems, and learning by creating.
-  <br /><br />
-  <a href="https://github.com/victordev-art">
-    <img src="https://img.shields.io/badge/GitHub-victordev--art-242831?style=flat-square&logo=github&logoColor=D6D9E0" alt="GitHub" />
-  </a>
-  <a href="https://github.com/victordev-art?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-8F303B?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+  <strong>Software Engineering Student · Backend · Data</strong><br />
+  <em>Quiet presence. Precise execution. Dark taste.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/victordev-art">GitHub</a> ·
+  <a href="https://github.com/victordev-art?tab=repositories">Projects</a> ·
+  <a href="https://www.instagram.com/shuryned/">Instagram</a>
 </p>
 
 ---
 
 ## About
 
-I'm a Software Engineering student interested in backend development, databases, data engineering, and systems.
+I'm a Software Engineering student from Brazil, interested in backend development, databases, data engineering, and systems.
 
-I enjoy understanding how things work, turning ideas into practical projects, and continuously improving my technical skills.
+I enjoy understanding how things work, building practical solutions, and refining my skills through projects.
 
 - **Currently exploring:** Java, object-oriented programming, SQL, and Linux.
-- **Interested in:** Backend engineering, data, and software architecture.
-- **Approach:** Learn, build, test, and improve.
+- **Interests:** Backend engineering, data, and software architecture.
+- **Languages:** Portuguese, English, and Mandarin (learning).
 
-> *Less noise. More substance.*
+> *Less noise. More code. Better results.*
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux,bash,mysql&theme=dark" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux,bash,mysql&theme=dark" alt="Technologies and development tools" />
 </p>
 
 ## Selected Projects
@@ -40,28 +40,28 @@ I enjoy understanding how things work, turning ideas into practical projects, an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/victordev-art/pixel_morcego">Pixel Morcego</a></h3>
-      A creative project centered on pixel art and a dark visual identity.
-      <br /><br />
-      <a href="https://github.com/victordev-art/pixel_morcego">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/victordev-art/book-api">Book API</a></h3>
-      A book-related API project focused on backend development.
+      Backend project related to books and API development.
       <br /><br />
       <a href="https://github.com/victordev-art/book-api">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/victordev-art/pixel_morcego">Pixel Morcego</a></h3>
+      A creative project focused on pixel art and a dark visual identity.
+      <br /><br />
+      <a href="https://github.com/victordev-art/pixel_morcego">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/victordev-art/RD2-Front">RD2-Front</a></h3>
-      A frontend project inspired by the world and atmosphere of Red Dead Redemption 2.
+      A frontend project inspired by the atmosphere of Red Dead Redemption 2.
       <br /><br />
       <a href="https://github.com/victordev-art/RD2-Front">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/victordev-art/controle-de-pedidos">Controle de Pedidos</a></h3>
-      A project focused on organizing and managing orders.
+      A project for organizing and managing orders.
       <br /><br />
       <a href="https://github.com/victordev-art/controle-de-pedidos">View repository →</a>
     </td>
@@ -69,6 +69,7 @@ I enjoy understanding how things work, turning ideas into practical projects, an
 </table>
 
 <p align="center">
+  <a href="https://github.com/victordev-art/faroeste-1899">Faroeste 1899</a> ·
   <a href="https://github.com/victordev-art?tab=repositories">Explore all repositories →</a>
 </p>
 
@@ -76,19 +77,22 @@ I enjoy understanding how things work, turning ideas into practical projects, an
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=111318&title_color=A64B56&icon_color=A64B56&text_color=D6D9E0" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=111318&title_color=A64B56&text_color=D6D9E0" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=111318&title_color=A64B56&text_color=D6D9E0" alt="Most used languages" />
 </p>
 
 ## Beyond Code
 
-Outside software development, I'm interested in dark fantasy, games, anime, video editing, mathematics, and physics. I also enjoy learning Mandarin.
-
-These interests influence my creative projects while my technical work remains the main focus of this profile.
-
----
+Games, anime, dark fantasy, video editing, mathematics, physics, and learning Mandarin are interests that inspire me outside software development.
 
 <p align="center">
-  <sub>Designed with purpose · Built through curiosity · Improved with every commit.</sub>
-  <br />
-  <sub><em>A subtle touch of gothic atmosphere, grounded in engineering.</em></sub>
+  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/beyond-code.png" width="100%" alt="Dark gothic still life with subtle crimson details" />
+</p>
+
+<p align="center">
+  <sub>Different interests. The same mind.</sub><br />
+  <sub><em>Here, discipline meets freedom.</em></sub>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity. Refined through practice.</sub>
 </p>
