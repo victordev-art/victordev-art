@@ -1,173 +1,205 @@
+<!--
+  VICTOR OLIVEIRA — CRIMSON AFTER DARK
+  Salve o banner gerado em: assets/crimson-banner.png
+-->
 
-<!-- ================================================== -->
-<!-- VICTOR OLIVEIRA | DARK GOTHIC PROFILE README       -->
-<!-- ================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-banner.png"
-       width="100%"
-       alt="Dark gothic castle banner" />
+<img src="assets/crimson-banner.png" width="100%" alt="Victor Oliveira — Java, Backend, After Dark"/>
+
+<br/>
+
+<p>
+  <code>BACKEND</code> &nbsp;·&nbsp;
+  <code>DATA</code> &nbsp;·&nbsp;
+  <code>AFTER DARK</code>
 </p>
 
-<h1 align="center">Victor Oliveira</h1>
+<h3>Less noise. More code. Better temptations.</h3>
 
-<p align="center">
-  <strong>Software Engineering Student · Backend · Data</strong>
-  <br />
-  <em>Quiet presence. Precise execution. Dark taste.</em>
+<p>
+  <i>Quiet presence. Precise execution. Dark taste.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/victordev-art">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/victordev-art?tab=repositories">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/shuryned/">Instagram</a>
-</p>
+<a href="https://github.com/victordev-art">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/victordev-art?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-5B1024?style=flat-square&logo=github&logoColor=white" alt="Projects"/>
+</a>
+<a href="https://www.instagram.com/shuryned/">
+  <img src="https://img.shields.io/badge/Instagram-6D102F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+## 01 / ABOUT ME
+
+> *Some things are better understood beneath the surface.*
+
+I'm **Victor Oliveira**, a Software Engineering student interested in backend development, data, systems and the logic behind the things we use every day.
+
+I enjoy understanding how things work, solving problems and turning ideas into functional software.
+
+My current focus is **Java, Object-Oriented Programming, SQL and Linux**, while continuing to explore networks, data engineering and software architecture.
+
+- `Focus:` Backend Development & Data
+- `Language:` Java
+- `Interests:` Software Engineering, databases, Linux and networks
+- `Mindset:` Learn deeply. Build deliberately. Improve continuously.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-8B2635?style=flat-square&labelColor=111318" alt="Focus: Backend" />
-  <img src="https://img.shields.io/badge/INTEREST-DATA-8B2635?style=flat-square&labelColor=111318" alt="Interest: Data" />
-  <img src="https://img.shields.io/badge/BASED_IN-BRAZIL-8B2635?style=flat-square&labelColor=111318" alt="Based in Brazil" />
+  <i>Not everything needs to be loud to leave an impression.</i>
 </p>
 
 ---
 
-## 01 — About Me
+## 02 / TECHNICAL ARSENAL
 
-I'm a Software Engineering student from Brazil, interested in backend development, databases, data engineering, and systems.
+<div align="center">
 
-I enjoy understanding how things work, building practical solutions, and refining my skills through projects.
+### CORE
 
-- **Currently exploring:** Java, object-oriented programming, SQL, and Linux.
-- **Main interests:** Backend engineering, data, and software architecture.
-- **Languages:** Portuguese, English, and Mandarin (learning).
+<img src="https://skillicons.dev/icons?i=java,idea,git,github,vscode&theme=dark" alt="Core development tools"/>
 
-> *Less noise. More code. Better results.*
+### DATABASES & SYSTEMS
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,linux,bash,docker&theme=dark" alt="Databases and systems"/>
 
-## 02 — Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux,bash,mysql&theme=dark"
-       alt="Technologies and development tools" />
-</p>
+| Domain | Technologies and topics |
+|---|---|
+| Programming | Java, Object-Oriented Programming |
+| Databases | SQL, relational modeling |
+| Systems | Linux, command line |
+| Networking | Network fundamentals |
+| Development | Git, GitHub, debugging |
+| Exploring | Backend architecture, data engineering, automation |
 
-<p align="center">
-  <sub>Learning, building, and improving one project at a time.</sub>
-</p>
-
----
-
-## 03 — Selected Projects
-
-<p align="center">
-  <sub>A collection of applications, experiments, and creative work.</sub>
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/victordev-art/book-api">◆ Book API</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVA-8B2635?style=flat-square&labelColor=111318" alt="Java" />
-        <img src="https://img.shields.io/badge/BACKEND-8B2635?style=flat-square&labelColor=111318" alt="Backend" />
-      </p>
-      A backend project related to books and API development.
-      <br /><br />
-      <a href="https://github.com/victordev-art/book-api">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/victordev-art/pixel_morcego">◆ Pixel Morcego</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVASCRIPT-8B2635?style=flat-square&labelColor=111318" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PIXEL_ART-8B2635?style=flat-square&labelColor=111318" alt="Pixel art" />
-      </p>
-      A pixel-art project featuring a flying bat, built with HTML, CSS, and JavaScript.
-      <br /><br />
-      <a href="https://github.com/victordev-art/pixel_morcego">Explore repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/victordev-art/RD2-Front">◆ RD2-Front</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/FRONTEND-8B2635?style=flat-square&labelColor=111318" alt="Frontend" />
-        <img src="https://img.shields.io/badge/RED_DEAD_REDEMPTION_2-8B2635?style=flat-square&labelColor=111318" alt="Red Dead Redemption 2 inspiration" />
-      </p>
-      A frontend project inspired by the atmosphere and visual identity of Red Dead Redemption 2.
-      <br /><br />
-      <a href="https://github.com/victordev-art/RD2-Front">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/victordev-art/controle-de-pedidos">◆ Controle de Pedidos</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVASCRIPT-8B2635?style=flat-square&labelColor=111318" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/ORDER_MANAGEMENT-8B2635?style=flat-square&labelColor=111318" alt="Order management" />
-      </p>
-      A web-based order management system with order tracking and DataCar integration.
-      <br /><br />
-      <a href="https://github.com/victordev-art/controle-de-pedidos">Explore repository ↗</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/victordev-art/faroeste-1899">◆ Faroeste 1899</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/victordev-art?tab=repositories">Explore all repositories ↗</a>
-</p>
+*Tools and topics listed here reflect my learning and interests; proficiency varies by technology.*
 
 ---
 
-## 04 — GitHub Overview
+## 03 / SELECTED PROJECTS
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=111318&title_color=A64B56&icon_color=A64B56&text_color=D6D9E0"
-       alt="GitHub statistics" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=111318&title_color=A64B56&text_color=D6D9E0"
-       alt="Most used languages" />
-</p>
+> *Every repository has a story. The code tells the truth.*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victordev-art&hide_border=true&background=111318&ring=A64B56&fire=A64B56&currStreakLabel=D6D9E0&sideLabels=D6D9E0&dates=8A8F98"
-       alt="GitHub contribution streak" />
-</p>
+### `01` — Book API
+
+**A backend project focused on books and data management.**
+
+An opportunity to explore API development, business rules and data persistence.
+
+`Java` · `Backend` · `API`
+
+[Explore my repositories →](https://github.com/victordev-art?tab=repositories)
 
 ---
 
-## 05 — Beyond Code
+### `02` — Pixel Morcego
 
-Games, anime, dark fantasy, video editing, mathematics, physics, and learning Mandarin are interests that inspire me outside software development.
+**A project with a darker creative identity.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/beyond-code.png"
-       width="100%"
-       alt="Dark gothic still life with subtle crimson details" />
-</p>
+A place to explore the intersection of software, visual ideas and personal experimentation.
 
-<p align="center">
-  <em>Different interests. The same mind.</em>
-  <br />
-  <sub>Here, discipline meets freedom.</sub>
-</p>
+[Explore my repositories →](https://github.com/victordev-art?tab=repositories)
+
+---
+
+### `03` — RD2-Front
+
+**A frontend project inspired by Red Dead Redemption 2.**
+
+A project connected to one of my interests in gaming and digital experiences.
+
+[Explore my repositories →](https://github.com/victordev-art?tab=repositories)
+
+---
+
+### `04` — Controle de Pedidos
+
+**Order management and structured information.**
+
+A project related to organizing information and representing practical workflows in software.
+
+[Explore my repositories →](https://github.com/victordev-art?tab=repositories)
+
+---
+
+### `05` — Faroeste 1899
+
+**A project inspired by the atmosphere of the Wild West.**
+
+An opportunity to combine creative direction with software development.
+
+[Explore my repositories →](https://github.com/victordev-art?tab=repositories)
 
 ---
 
 <p align="center">
-  <sub>Built with curiosity. Refined through practice.</sub>
-  <br />
-  <sub>© Victor Oliveira · 2026</sub>
+  <i>Projects evolve. So does the person behind them.</i>
 </p>
 
+---
+
+## 04 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=111111&title_color=FF3158&icon_color=9B1C3C&text_color=CCCCCC&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=111111&title_color=FF3158&text_color=CCCCCC" height="165" alt="Most used programming languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victordev-art&hide_border=true&background=111111&ring=FF3158&fire=FF3158&currStreakLabel=FF3158&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="75%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 05 / BEYOND THE CODE
+
+The terminal is only one part of the picture.
+
+- **Games:** Red Dead Redemption 2 and immersive worlds
+- **Anime:** Dark, psychological and atmospheric stories
+- **Dark fantasy:** Gothic aesthetics, mystery and unsettling narratives
+- **Creative work:** Video editing and visual experimentation
+- **Science:** Mathematics and physics
+- **Languages:** Portuguese, English and Mandarin Chinese — currently learning
+
+<p align="center">
+  <i>Here, discipline meets freedom.</i>
+</p>
+
+---
+
+## 06 / LANGUAGES
+
+- 🇧🇷 Portuguese — Native
+- 🌎 English — Learning and improving
+- 🀄 Mandarin Chinese — Learning
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:3D0919,100:111111&height=3&section=footer" width="100%" alt="Crimson divider"/>
+
+<p>
+  <i>Beautiful things can be dangerous. Good code should not be.</i>
+</p>
+
+<sub>Built with curiosity, caffeine and a taste for the darker side.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=victordev-art&style=flat-square&color=7B1029&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
