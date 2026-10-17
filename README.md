@@ -1,124 +1,94 @@
-<div align="center">
+# Victor Oliveira
 
-<img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-castle-banner.png" width="100%" alt="Gothic castle beneath a blood-red moon"/>
+<img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-castle-banner.png" width="100%" alt="Dark gothic banner with a castle and crimson moon" />
 
-# VICTOR OLIVEIRA
-
-**Software Engineering Student · Backend Development · Data**
-
-[![GitHub](https://img.shields.io/badge/GitHub-victordev--art-0d1117?style=for-the-badge&logo=github&logoColor=ef4444)](https://github.com/victordev-art)
-[![Instagram](https://img.shields.io/badge/Instagram-shuryned-0d1117?style=for-the-badge&logo=instagram&logoColor=ef4444)](https://www.instagram.com/shuryned/)
-
-*Less talk. More logs. 🩸*
-
-</div>
-
----
-
-## 🩸 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/victordev-art/controle-de-pedidos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victordev-art&repo=controle-de-pedidos&theme=dark&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&border_color=30363d" alt="Controle de Pedidos repository card"/>
-</a>
-<a href="https://github.com/victordev-art/book-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victordev-art&repo=book-api&theme=dark&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&border_color=30363d" alt="Book API repository card"/>
-</a>
-
-<a href="https://github.com/victordev-art/pixel_morcego">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victordev-art&repo=pixel_morcego&theme=dark&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&border_color=30363d" alt="Pixel Morcego repository card"/>
-</a>
-<a href="https://github.com/victordev-art/RD2-Front">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victordev-art&repo=RD2-Front&theme=dark&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&border_color=30363d" alt="RD2 Front repository card"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[**Explore all my repositories →**](https://github.com/victordev-art?tab=repositories)
-
-</div>
-
-## 🦇 About Me
-
-I'm a Software Engineering student from Brasília, Brazil, interested in backend development, data, and technology.
-
-I'm building my foundations in **Java, object-oriented programming, SQL, and Linux**, turning theory into practical projects.
-
-I also have practical knowledge of technical support, computer networks, and Excel.
-
-```java
-public class Victor {
-
-    String focus = "Backend Development & Data";
-    String mainLanguage = "Java";
-    String mindset = "Learn, build, debug, repeat.";
-
-}
-```
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux,bash,python,mysql&theme=dark" alt="Development technologies and tools"/>
-
-</div>
-
-- **Programming:** Java and programming fundamentals
-- **Databases:** SQL and relational database fundamentals
-- **Systems:** Linux, Bash, and computer networks
-- **Other skills:** Excel and technical support N1/N2
-
-## 🩸 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/victordev-art">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/victordev-art">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&langs_count=6" alt="Most used programming languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=victordev-art&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" alt="GitHub contribution streak"/>
-
-</div>
-
-## 🧪 Currently Learning
-
-- ☕ Java and object-oriented programming
-- 🗄️ SQL and relational databases
-- 🐧 Linux and system fundamentals
-- 📊 Data analysis and data engineering fundamentals
-- 🧩 Problem-solving through practical projects
-
-## 🌏 Languages
-
-| Language | Level |
-|---|---|
-| 🇧🇷 Portuguese | Native |
-| 🇺🇸 English | Intermediate |
-| 🇨🇳 Mandarin Chinese | Learning |
-
-## 🎮 Beyond Code
-
-Games, anime, dark fantasy, video editing, mathematics, and physics.
-
-I enjoy mysterious worlds, complex characters, and debugging code at 2 AM.
+<p align="center">
+  <strong>Software Engineering Student · Backend Development · Data</strong>
+  <br />
+  Building practical projects, exploring systems, and learning by creating.
+  <br /><br />
+  <a href="https://github.com/victordev-art">
+    <img src="https://img.shields.io/badge/GitHub-victordev--art-242831?style=flat-square&logo=github&logoColor=D6D9E0" alt="GitHub" />
+  </a>
+  <a href="https://github.com/victordev-art?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-8F303B?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## About
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:450a0a,100:09090b&height=100&section=footer" width="100%" alt="Dark gothic red footer"/>
+I'm a Software Engineering student interested in backend development, databases, data engineering, and systems.
 
-*“While there are bugs, there is a purpose.”*
+I enjoy understanding how things work, turning ideas into practical projects, and continuously improving my technical skills.
 
-<sub>Built with curiosity, caffeine, and a questionable number of commits.</sub>
+- **Currently exploring:** Java, object-oriented programming, SQL, and Linux.
+- **Interested in:** Backend engineering, data, and software architecture.
+- **Approach:** Learn, build, test, and improve.
 
-</div>
+> *Less noise. More substance.*
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux,bash,mysql&theme=dark" alt="Technologies and tools" />
+</p>
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/victordev-art/pixel_morcego">Pixel Morcego</a></h3>
+      A creative project centered on pixel art and a dark visual identity.
+      <br /><br />
+      <a href="https://github.com/victordev-art/pixel_morcego">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/victordev-art/book-api">Book API</a></h3>
+      A book-related API project focused on backend development.
+      <br /><br />
+      <a href="https://github.com/victordev-art/book-api">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/victordev-art/RD2-Front">RD2-Front</a></h3>
+      A frontend project inspired by the world and atmosphere of Red Dead Redemption 2.
+      <br /><br />
+      <a href="https://github.com/victordev-art/RD2-Front">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/victordev-art/controle-de-pedidos">Controle de Pedidos</a></h3>
+      A project focused on organizing and managing orders.
+      <br /><br />
+      <a href="https://github.com/victordev-art/controle-de-pedidos">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/victordev-art?tab=repositories">Explore all repositories →</a>
+</p>
+
+## GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=111318&title_color=A64B56&icon_color=A64B56&text_color=D6D9E0" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=111318&title_color=A64B56&text_color=D6D9E0" alt="Most used programming languages" />
+</p>
+
+## Beyond Code
+
+Outside software development, I'm interested in dark fantasy, games, anime, video editing, mathematics, and physics. I also enjoy learning Mandarin.
+
+These interests influence my creative projects while my technical work remains the main focus of this profile.
+
+---
+
+<p align="center">
+  <sub>Designed with purpose · Built through curiosity · Improved with every commit.</sub>
+  <br />
+  <sub><em>A subtle touch of gothic atmosphere, grounded in engineering.</em></sub>
+</p>
