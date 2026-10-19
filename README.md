@@ -1,197 +1,80 @@
-<!-- ════════════════════════════════════════════════════ -->
-<!--  VICTOR OLIVEIRA · victordev-art                      -->
-<!--  no mark on the door · profile README                 -->
-<!--  palette: #050505 #101010 #780019 #3B0013             -->
-<!--           #351044 #64208A #77717C #D8D2CC             -->
-<!-- ════════════════════════════════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/gothic-banner.png"
-       width="100%"
-       alt="An empty underground club at 4AM — red light across a wet floor, purple haze, no one left" />
-</p>
+# Victor Oliveira Bezerra
 
-<h1 align="center">
-  <sub><b>VICTOR OLIVEIRA</b></sub>
-</h1>
+**Engenharia de Software · Backend · Dados**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cutive+Mono&size=18&pause=1600&color=D8D2CC&background=05050500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=620&height=48&lines=backend+systems%2C+assembled+after+midnight;data+in+dark+rooms.+noise+on+purpose."
-       alt="Typing line: backend systems, assembled after midnight / data in dark rooms, noise on purpose" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=DC2626&center=true&vCenter=true&width=640&lines=Construindo+backends+(geralmente+de+madrugada);Java+%C2%B7+SQL+%C2%B7+Linux;Matem%C3%A1tica+e+F%C3%ADsica+por+prazer;Humor+%C3%A1cido.+C%C3%B3digo+limpo.+Na+maioria+dos+dias." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-780019?style=flat-square&labelColor=050505" alt="Focus: Backend" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/INTEREST-DATA_SYSTEMS-64208A?style=flat-square&labelColor=050505" alt="Interest: Data systems" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ACTIVE-AFTER_DARK-3B0013?style=flat-square&labelColor=050505" alt="Active after dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/COORDINATES-BRAZIL-351044?style=flat-square&labelColor=050505" alt="Coordinates: Brazil" />
-</p>
+![Seguidores](https://img.shields.io/github/followers/victordev-art?style=flat-square&color=dc2626&labelColor=18181b&label=seguidores)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/victordev-art&query=public_repos&style=flat-square&color=dc2626&labelColor=18181b&label=reposit%C3%B3rios)
+![Visitas](https://komarev.com/ghpvc/?username=victordev-art&label=visitas&color=dc2626&labelColor=18181b&style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/victordev-art?tab=repositories"><sub>THE&nbsp;FLOOR</sub></a>
-  &nbsp;&nbsp;<sub>·</sub>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shuryned/"><sub>THE&nbsp;BACK&nbsp;ROOM</sub></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="100%" alt="thin dark gradient divider" />
-</p>
+---
 
-## <sub>01 · THE VESTIBULE</sub>
+## Sobre mim
 
-Software engineering student. Builder of backends. Collector of data and late hours.
+Estudante de **Engenharia de Software**, em **Brasília**, atrás da primeira oportunidade na área de tecnologia. Gosto de backend, de dados e de entender por que as coisas funcionam, por isso a matemática e a física vieram junto no pacote.
 
-Most of what lives in this profile was written between midnight and four — Java, SQL, and systems meant to hold under pressure. The rest is noise I made on purpose.
+Fora do código, edito vídeos, jogo, e assisto animes mais obscuros, daqueles em que ninguém sai ileso. Meu humor é áspero e ácido, o que costuma ser mais útil em code review do que parece.
 
-> **currently** — Java · OOP · SQL · Linux
->
-> **next room** — data engineering · architecture
->
-> **spoken** — PT (native) · EN · Mandarin (in progress)
->
-> **position** — Brazil. The exact room is undisclosed.
+| | |
+|---|---|
+| 🎯 **Foco atual** | Java, POO, SQL e Linux |
+| 🧭 **Próximo passo** | Engenharia de dados e arquitetura de software |
+| 🔥 **Desafio** | 1 projeto Java por dia → [`java-100-dias`](https://github.com/victordev-art/java-100-dias) |
+| 🎬 **Em paralelo** | Aprimorando edição de vídeo |
+| 🗣️ **Idiomas** | Português (nativo) · Inglês · Mandarim (aprendendo) |
 
-> *If it breaks at 3AM, I'm already awake.*
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="88%" alt="thin dark gradient divider" />
-</p>
+## Stack
 
-## <sub>02 · INSTRUMENTS</sub>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux,bash,mysql&theme=dark"
-       alt="Tools kept in the drawer under the bar" />
-</p>
+![Java](https://img.shields.io/badge/Java-dc2626?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-dc2626?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-dc2626?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-dc2626?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-dc2626?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-780019?style=flat-square&labelColor=050505" alt="Java" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-780019?style=flat-square&labelColor=050505" alt="SQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-64208A?style=flat-square&labelColor=050505" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JAVASCRIPT-64208A?style=flat-square&labelColor=050505" alt="JavaScript" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LINUX-3B0013?style=flat-square&labelColor=050505" alt="Linux" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BACKEND-780019?style=flat-square&labelColor=050505" alt="Backend" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DATA-351044?style=flat-square&labelColor=050505" alt="Data" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-27272a?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-27272a?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-27272a?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-27272a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-27272a?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<p align="center">
-  <sub>Each one earns its place here. Nothing on the list is decoration.</sub>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="88%" alt="thin dark gradient divider" />
-</p>
+---
 
-## <sub>03 · THE FLOOR PLAN</sub>
+<!--AUTO:INICIO-->
+*Esta seção é atualizada automaticamente todo dia.*
+<!--AUTO:FIM-->
 
-<p align="center">
-  <sub>Every repository is a room. Some are finished. None are empty.</sub>
-</p>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/victordev-art/book-api">❖ The Reading Room <sub>· book-api</sub></a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVA-780019?style=flat-square&labelColor=050505" alt="Java" />
-        <img src="https://img.shields.io/badge/BACKEND-3B0013?style=flat-square&labelColor=050505" alt="Backend" />
-      </p>
-      A Java backend for cataloguing books. The quiet kind of architecture — the lights stay low, the structure holds.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/victordev-art/pixel_morcego">❖ The Rafters <sub>· pixel_morcego</sub></a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVASCRIPT-64208A?style=flat-square&labelColor=050505" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PIXEL_ART-351044?style=flat-square&labelColor=050505" alt="Pixel art" />
-      </p>
-      Something moves up there. A pixel-art bat in HTML, CSS and JavaScript — the house's only resident.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/victordev-art/RD2-Front">❖ The Frontier <sub>· RD2-Front</sub></a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/FRONTEND-64208A?style=flat-square&labelColor=050505" alt="Frontend" />
-        <img src="https://img.shields.io/badge/RDR2-3B0013?style=flat-square&labelColor=050505" alt="Inspired by Red Dead Redemption 2" />
-      </p>
-      A front-end distilled from the visual identity of Red Dead Redemption 2 — dust, serif type, and the last light before dusk.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/victordev-art/controle-de-pedidos">❖ The Back Office <sub>· controle-de-pedidos</sub></a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/JAVASCRIPT-64208A?style=flat-square&labelColor=050505" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/ORDERS-780019?style=flat-square&labelColor=050505" alt="Order management" />
-      </p>
-      Where the paperwork lives. Order tracking on the web, wired into DataCar — everything counted, nothing shouted.
-    </td>
-  </tr>
-</table>
+## Estatísticas
 
-<p align="center">
-  <a href="https://github.com/victordev-art/faroeste-1899"><sub>❖ FAROESTE 1899</sub></a>
-  &nbsp;&nbsp;<sub>·</sub>&nbsp;&nbsp;
-  <a href="https://github.com/victordev-art?tab=repositories"><sub>the rest of the building ↗</sub></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="88%" alt="thin dark gradient divider" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=d4d4d8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=d4d4d8" />
 
-## <sub>04 · TRANSMISSIONS</sub>
+<img src="https://streak-stats.demolab.com/?user=victordev-art&hide_border=true&background=0d1117&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&currStreakNum=d4d4d8&sideNums=d4d4d8&sideLabels=a1a1aa&dates=71717a" />
 
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=victordev-art&show_icons=true&hide_border=true&bg_color=050505&title_color=D8D2CC&icon_color=780019&text_color=77717C"
-       alt="Signal history" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev-art&layout=compact&hide_border=true&bg_color=050505&title_color=D8D2CC&text_color=77717C&icon_color=64208A"
-       alt="Frequencies by language" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victordev-art&hide_border=true&background=050505&ring=780019&fire=64208A&currStreakLabel=D8D2CC&sideLabels=77717C&dates=77717C"
-       alt="Consecutive nights on the floor" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="88%" alt="thin dark gradient divider" />
-</p>
+## Contato
 
-## <sub>05 · AFTER HOURS</sub>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victordev-art/victordev-art/main/beyond-code.png"
-       width="100%"
-       alt="The hotel corridor at night — wine-red light, aged mirrors, nobody coming or going" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-dc2626?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-27272a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-27272a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 
-Dark fantasy. VHS decay. Video editing. Anime. The mathematics underneath it all — and Mandarin, a language that sounds better after midnight.
-
-<p align="center">
-  <sub><em>The corridor stays lit. Nobody checks the hour.</em></sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=050505,3B0013,780019,351044,050505&desc=true"
-       width="100%" alt="thin dark gradient divider" />
-</p>
-
-<p align="center">
-  <sub>No sign on the door. If you found this place, you were meant to.</sub>
-  <br />
-  <sub><b>victordev-art</b> · MMXXVI</sub>
-</p>
+</div>
